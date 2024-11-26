@@ -1,5 +1,5 @@
-n1 = int(input('Primeiro numero '))
-n2 = int(input('Segundo numero '))
+n1 = float(input('Primeiro numero '))
+n2 = float(input('Segundo numero '))
 
 s = n1 + n2
 
